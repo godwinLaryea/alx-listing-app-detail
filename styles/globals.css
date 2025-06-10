@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+  font-family: "Quicksand", sans-serif;
+}
+
+.hero-section {
+  background-image: url("../public/assets/hero.png");
+  background-position: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
